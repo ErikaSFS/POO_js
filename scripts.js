@@ -73,3 +73,4 @@ class ConntaUniversitaria extends ContaBancaria {
 }
 
 const minhaConta = new ContaCorrente(1, 211, true);
+const contaUni = new ContaUniversitaria(2, 333);
